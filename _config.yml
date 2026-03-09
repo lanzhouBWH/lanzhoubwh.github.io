@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhou Lan"
   pronouns         : # example: "she/her"  
   bio              : "Now the Associate Director of Real-World Evidence Analytics at Sanofi; Past Biostatistics Faculty at Brigham and Women's Hospital, Harvard Medical School."
   location         : "Boston MA, USA"
   employer         : "Sanofi"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhou.joe.lan@gmail.com;zhou.lan@sanofi.com" 
 
   # Academic websites
   academia         : # URL
