@@ -23,7 +23,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/xxx.png"
+  avatar           : "xxx.png"
   name             : "Zhou Lan"
   pronouns         : # example: "she/her"  
   bio              : "Now the Associate Director of Real-World Evidence Analytics at Sanofi; Past Biostatistics Faculty at Brigham and Women's Hospital, Harvard Medical School."
