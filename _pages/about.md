@@ -18,7 +18,7 @@ Zhou (Joe) Lan is an associate director at Real-World Evidence Analytics on Sano
 
 Investigation Areas
 ======
-- [Biobank Analystics](https://www.mathjax.org/) Large-scale imaging/digital-device/omics research using biobanks and population cohorts (e.g., Human Connectome Project, ABCD Study, Boston Scientific’s ALTITUDE database, and NCDR ICD Registry) for biomarker discovery and disease stratification using AI/ML-based data science and digital health approaches.
+- [Biobank Analystics](https://www.mathjax.org/) Large-scale imaging/digital-device/omics research using biobanks and population cohorts (e.g., Human Connectome Project, ABCD Study, Boston Scientific’s ALTITUDE database, and NCDR ICD Registry).
 - [Real World Evidence Analytics](https://mermaid.js.org/) Epidemiological Real-world Studies and Outcomes Research: Analysis of EHRs, insurance claims, registry data for treatment effectiveness, safety evaluation, and patient trajectory modeling using advanced causal inference and survival methods.
 - [Clinical Trials](https://plotly.com/javascript/) Supporting late clinical studies using rigorous statistical methodology.
 
