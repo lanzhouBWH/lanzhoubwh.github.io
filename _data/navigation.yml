@@ -8,10 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Representative Publications By Investigation Areas"
+  - title: "Representative Publications <br> By Investigation Areas"
     url: /publications/
 
-  - title: "Representative Publications By Therapeutic Areas"
+  - title: "Representative Publications <br> By Therapeutic Areas"
     url: /publications/
 
   #- title: "Talks"
