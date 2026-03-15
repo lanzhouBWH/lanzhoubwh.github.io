@@ -9,13 +9,13 @@
 
 main:
   - title: "Investigation Areas"
-    url: /publications/
+    url: /publications_Investigation/
 
   - title: "Therapeutic Areas"
-    url: /publications/
+    url: /publications_Therapy/
 
   - title: "Statistical Methodology"
-    url: /publications/
+    url: /publications_Statistics/
 
   #- title: "Talks"
   #  url: /talks/    
