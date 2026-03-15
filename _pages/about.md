@@ -65,10 +65,7 @@ As both a lead investigator and collaborative team member in medical research, h
   **Utility of 18F-Flurpiridaz PET Relative Flow Reserve in Differentiating Obstructive from Nonobstructive Coronary Artery Disease.**  
   *Circulation: Cardiovascular Imaging*, 18(11): e018323, 2025.
 
-- <span style="background:#E45756;color:white;padding:2px 6px;border-radius:4px;">Cardiology</span>  
-  Pfeferman M et al.  
-  **Impact of Enduring Risk Factors on Efficacy and Safety of Extended Anticoagulation for Provoked Venous Thromboembolism.**  
-  *Thrombosis Research*, 2026.
+
 
 - <span style="background:#E45756;color:white;padding:2px 6px;border-radius:4px;">Cardiology</span>  
   Hummel JP, Lan Z et al.  
@@ -95,6 +92,12 @@ Epidemiological real-world studies and outcomes research using EHRs, insurance c
   Shah N, Lan Z, Martin SS, Brown CJ, Turchin A.  
   **Impact of Delays in Statin Therapy Due to Statin Nonacceptance on Cardiovascular Outcomes in Patients with Diabetes.**  
   *Diabetes*, 73(Suppl 1):56-OR, 2024.
+
+## Clinical Trials
+- <span style="background:#E45756;color:white;padding:2px 6px;border-radius:4px;">Cardiology</span>  
+  Pfeferman M et al.  
+  **Impact of Enduring Risk Factors on Efficacy and Safety of Extended Anticoagulation for Provoked Venous Thromboembolism.**  
+  *Thrombosis Research*, 2026.
 
 # Statistical Methodology
 
