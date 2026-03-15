@@ -64,10 +64,6 @@ As both a lead investigator and collaborative team member in medical research, h
     **Utility of 18F-Flurpiridaz PET Relative Flow Reserve in Differentiating Obstructive from Nonobstructive Coronary Artery Disease.**\
     *Circulation: Cardiovascular Imaging*, 18(11): e018323, 2025.
 
--   [Cardiology]{style="background:#E45756;color:white;padding:2px 6px;border-radius:4px;"}\
-    Pfeferman M, Rashedi S, Pandey AK, Krishnathasan D, Khairani CD, Bejjani A, Morrison RH, Hogan H, Lou J, Fanikos J.\
-    **Impact of Enduring Risk Factors on Efficacy and Safety of Extended Anticoagulation for Provoked Venous Thromboembolism: Post-hoc Analysis of the HI-PRO Trial.**\
-    *Thrombosis Research*, 2026.
 
 -   [Oncology]{style="background:#72B7B2;color:white;padding:2px 6px;border-radius:4px;"}\
     Youssef G, Aquilanti E, Miller JJ, Lan Z, Lasica AB, Arrillaga-Romany I, Batchelor TT, Berger TR, Beroukhim R, Chukwueke U.\
@@ -104,7 +100,12 @@ Epidemiological Real-world Studies and Outcomes Research: Analysis of EHRs, insu
     **Impact of Delays in Statin Therapy Due to Statin Nonacceptance on Cardiovascular Outcomes in Patients with Diabetes.**\
     *Diabetes*, 73(Suppl 1):56-OR, 2024.
 
--   [Clinical Trials]() Supporting late clinical studies using rigorous statistical methodology.
+### Supporting late clinical studies using rigorous statistical methodology.
+-   [Cardiology]{style="background:#E45756;color:white;padding:2px 6px;border-radius:4px;"}\
+    Pfeferman M, Rashedi S, Pandey AK, Krishnathasan D, Khairani CD, Bejjani A, Morrison RH, Hogan H, Lou J, Fanikos J.\
+    **Impact of Enduring Risk Factors on Efficacy and Safety of Extended Anticoagulation for Provoked Venous Thromboembolism: Post-hoc Analysis of the HI-PRO Trial.**\
+    *Thrombosis Research*, 2026.
+
 
 # Statistical Methodology
 
