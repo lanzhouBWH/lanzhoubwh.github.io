@@ -21,7 +21,8 @@ As both a lead investigator and collaborative team member in medical research, h
 Investigation Areas
 ======
 - [Biobank Analystics]() Large-scale imaging/digital-device/omics research using biobanks and population cohorts (e.g., Human Connectome Project, ABCD Study, Boston Scientific’s ALTITUDE database, and NCDR ICD Registry).
--- Paper 1
+ 
+ - Paper 1
 
 
 - [Real World Evidence Analytics]() Epidemiological Real-world Studies and Outcomes Research: Analysis of EHRs, insurance claims, registry data for treatment effectiveness, safety evaluation, and patient trajectory modeling using advanced causal inference and survival methods.
