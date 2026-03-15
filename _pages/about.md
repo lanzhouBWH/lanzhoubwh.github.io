@@ -24,7 +24,7 @@ Investigation Areas
 
 Therapeutic Areas
 ======
-- [Neuroscience](https://www.mathjax.org/) for mathematical equations
+- [Neuroscience](https://www.mathjax.org/) Including using Radiology, Diffusion MRI, MRS data for advanced statistical method development, digital endpoint development for human cognitive function and neurological diseases such as functional neurological disorder 
 - [Cardiology](https://mermaid.js.org/) for diagraming
 - [Oncology](https://plotly.com/javascript/) for plotting
 
