@@ -27,7 +27,7 @@ Investigation Areas
 Therapeutic Areas
 ======
 - [Neuroscience]() Including using Radiology, Diffusion MRI, MRS data for advanced statistical method development, digital endpoint development for human cognitive function and neurological diseases such as functional neurological disorder 
-- [Cardiology]() Including assessing PET imaging endpoints for clinical diagnosis and EMR/Claim Data Analysis for cardiovascular disease (e.g., Thrombosis)
+- [Cardiology]() Including assessing PET imaging endpoints for clinical diagnosis and EMR/Claim Data Analysis for cardiovascular disease (e.g., Thrombosis), and Phase IV clinical trial
 - [Oncology]() Including investigating imaging and genetic biomarkers for brain tumor progression.
 
 
