@@ -20,8 +20,8 @@ As both a lead investigator and collaborative team member in medical research, h
 
 Investigation Areas
 ======
-- **Biobank Analytics**  
-  Large-scale imaging/digital-device/omics research using biobanks and population cohorts (e.g., Human Connectome Project, ABCD Study, Boston Scientific’s ALTITUDE database, and NCDR ICD Registry).
+### Biobank Analytics
+Large-scale imaging/digital-device/omics research using biobanks and population cohorts (e.g., Human Connectome Project, ABCD Study, Boston Scientific’s ALTITUDE database, and NCDR ICD Registry).
 
 - Zhou L, Chen Y, Rushmore J, Zekelman L, Makris N, Rathi Y, Golby AJ, Zhang F, O’Donnell LJ.  
   **Fiber Microstructure Quantile (FMQ) Regression: A Novel Statistical Approach for Analyzing White Matter Bundles from Periphery to Core.**  
@@ -45,7 +45,10 @@ Investigation Areas
 
 
 
-- [Real World Evidence Analytics]() Epidemiological Real-world Studies and Outcomes Research: Analysis of EHRs, insurance claims, registry data for treatment effectiveness, safety evaluation, and patient trajectory modeling using advanced causal inference and survival methods.
+- **Real World Evidence Analytics**
+Epidemiological Real-world Studies and Outcomes Research: Analysis of EHRs, insurance claims, registry data for treatment effectiveness, safety evaluation, and patient trajectory modeling using advanced causal inference and survival methods.
+
+
 - [Clinical Trials]() Supporting late clinical studies using rigorous statistical methodology.
 
 Therapeutic Areas
