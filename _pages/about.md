@@ -12,7 +12,9 @@ redirect_from:
 
 Who am I?
 ======
-Zhou (Joe) Lan is an associate director at Real-World Evidence Analytics on Sanofi's HEVA Team. He earned his PhD in Statistics from North Carolina State University in 2019 and has since focused on real-world evidence studies examining treatment effectiveness, as well as biobank studies supporting R&D biomarker investigation, at Brigham and Women's Hospital–Harvard Medical School. As both a lead investigator and collaborative team member in medical research, he has contributed to numerous studies with publications in prestigious journals including JAMIA Open, NEJM, JAHA, JAMA Network Open, Circulation, Neuro-Oncology, and Imaging Neuroscience. As trained biostatistician and data scientist, he has served as lead author on more than 15 publications in prominent journals such as Technometrics, Biometrics, Journal of the Royal Statistical Society: Series A, Data Science in Science.
+Zhou (Joe) Lan is an associate director at Real-World Evidence Analytics on Sanofi's HEVA Team. He earned his PhD in Statistics from North Carolina State University in 2019 and has since focused on real-world evidence studies examining treatment effectiveness, as well as biobank studies supporting R&D biomarker investigation, at Brigham and Women's Hospital–Harvard Medical School. 
+
+As both a lead investigator and collaborative team member in medical research, he has contributed to numerous studies with publications in prestigious journals including JAMIA Open, NEJM, JAHA, JAMA Network Open, Circulation, Neuro-Oncology, and Imaging Neuroscience. As trained biostatistician and data scientist, he has served as lead author on more than 15 publications in prominent journals such as Technometrics, Biometrics, Journal of the Royal Statistical Society: Series A, Data Science in Science.
 
 
 
@@ -25,8 +27,8 @@ Investigation Areas
 Therapeutic Areas
 ======
 - [Neuroscience]() Including using Radiology, Diffusion MRI, MRS data for advanced statistical method development, digital endpoint development for human cognitive function and neurological diseases such as functional neurological disorder 
-- [Cardiology]() for diagraming
-- [Oncology]() for plotting
+- [Cardiology]() Including assessing PET imaging endpoints for clinical diagnosis and EMR/Claim Data Analysis for cardiovascular disease (e.g., Thrombosis)
+- [Oncology]() Including Imaging and Genetic 
 
 
 Statistical Methodology
