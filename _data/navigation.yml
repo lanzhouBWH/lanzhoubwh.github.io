@@ -8,14 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Investigation Areas"
-    url: /publications_Investigation/
+  #- title: "Investigation Areas"
+  #  url: /publications_Investigation/
 
-  - title: "Therapeutic Areas"
-    url: /publications_Therapy/
+  #- title: "Therapeutic Areas"
+  #  url: /publications_Therapy/
 
-  - title: "Statistical Methodology"
-    url: /publications_Statistics/
+  #- title: "Statistical Methodology"
+  #  url: /publications_Statistics/
 
   #- title: "Talks"
   #  url: /talks/    
