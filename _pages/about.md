@@ -33,6 +33,6 @@ Therapeutic Areas
 
 Statistical Methodology
 ======
-- [Bayesian Inference and Methods](https://www.mathjax.org/) for mathematical equations
-- [Nonparametric Modeling](https://mermaid.js.org/) for diagraming
-- [Multivariate Modeling](https://plotly.com/javascript/) for plotting
+- [Bayesian Inference and Methods]() 
+- [Nonparametric Modeling]() 
+- [Multivariate Modeling]() 
