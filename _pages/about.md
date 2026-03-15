@@ -18,15 +18,15 @@ Zhou (Joe) Lan is an associate director at Real-World Evidence Analytics on Sano
 
 Investigation Areas
 ======
-- [Biobank Analystics](https://www.mathjax.org/) Large-scale imaging/digital-device/omics research using biobanks and population cohorts (e.g., Human Connectome Project, ABCD Study, Boston Scientific’s ALTITUDE database, and NCDR ICD Registry).
-- [Real World Evidence Analytics](https://mermaid.js.org/) Epidemiological Real-world Studies and Outcomes Research: Analysis of EHRs, insurance claims, registry data for treatment effectiveness, safety evaluation, and patient trajectory modeling using advanced causal inference and survival methods.
-- [Clinical Trials](https://plotly.com/javascript/) Supporting late clinical studies using rigorous statistical methodology.
+- [Biobank Analystics]() Large-scale imaging/digital-device/omics research using biobanks and population cohorts (e.g., Human Connectome Project, ABCD Study, Boston Scientific’s ALTITUDE database, and NCDR ICD Registry).
+- [Real World Evidence Analytics]() Epidemiological Real-world Studies and Outcomes Research: Analysis of EHRs, insurance claims, registry data for treatment effectiveness, safety evaluation, and patient trajectory modeling using advanced causal inference and survival methods.
+- [Clinical Trials]() Supporting late clinical studies using rigorous statistical methodology.
 
 Therapeutic Areas
 ======
-- [Neuroscience](https://www.mathjax.org/) Including using Radiology, Diffusion MRI, MRS data for advanced statistical method development, digital endpoint development for human cognitive function and neurological diseases such as functional neurological disorder 
-- [Cardiology](https://mermaid.js.org/) for diagraming
-- [Oncology](https://plotly.com/javascript/) for plotting
+- [Neuroscience]() Including using Radiology, Diffusion MRI, MRS data for advanced statistical method development, digital endpoint development for human cognitive function and neurological diseases such as functional neurological disorder 
+- [Cardiology]() for diagraming
+- [Oncology]() for plotting
 
 
 Statistical Methodology
