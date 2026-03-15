@@ -132,7 +132,7 @@ As both a lead investigator and collaborative team member in medical research, h
 
 
 ## Statistical Methodology
-- <span style="background:#4C78A8;color:white;padding:2px 6px;border-radius:4px;">Neuroscience</span>  
+- <span style="background:#B279A2;color:white;padding:2px 6px;border-radius:4px;">Statistical Methods</span>  
   Yan L, Zhang X, Lan Z, Bandyopadhyay D, Wu Y, Alzheimer’s Disease Neuroimaging Initiative.  
   **Variable Screening and Spatial Smoothing in Fréchet Regression with Application to Diffusion Tensor Imaging.**  
   *The Annals of Applied Statistics*, 19(1):655–679, 2025.
@@ -146,6 +146,12 @@ As both a lead investigator and collaborative team member in medical research, h
   Lan Z, Roy A, Alzheimer’s Disease Neuroimaging Initiative.  
   **Spatial von-Mises Fisher Regression for Directional Data.**  
   *Technometrics*, 67(4):706–715, 2025.
+
+- <span style="background:#B279A2;color:white;padding:2px 6px;border-radius:4px;">Statistical Methods</span>  
+  Lan Z, Bao L.  
+  **Multivariate Spatial Modeling for Predicting Missing HIV Prevalence Rates Among Key Populations.**  
+  *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 187(2), 2024.  
+  DOI: https://doi.org/10.1093/jrsssa/qnad113
 
 - <span style="background:#B279A2;color:white;padding:2px 6px;border-radius:4px;">Statistical Methods</span>  
   Lan Z.  
