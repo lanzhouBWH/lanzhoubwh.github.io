@@ -92,6 +92,41 @@ Epidemiological real-world studies and outcomes research using EHRs, insurance c
   **Impact of Delays in Statin Therapy Due to Statin Nonacceptance on Cardiovascular Outcomes in Patients with Diabetes.**  
   *Diabetes*, 73(Suppl 1):56-OR, 2024.
 
+- <span style="background:#E45756;color:white;padding:2px 6px;border-radius:4px;">Cardiology</span>  
+  McGonagle B, Greason C, Krishnathasan D, Scimeca G, Bejjani A, Khairani CD, Hamade N, Sato A, Leyva H, Campia U.  
+  **Association Between Active Cancer and Risk of Thrombotic and Cardiovascular Outcomes in Outpatients with COVID-19: A CORONA-VTE Network Analysis.**  
+  *TH Open*, 9, 2025.
+
+- <span style="background:#E45756;color:white;padding:2px 6px;border-radius:4px;">Cardiology</span>  
+  Bikdeli B, Krishnathasan D, Bejjani A, Khairani CD, Hamade N, Campia U, Davies J, Porio N, Assi AA, Armero A.  
+  **Adjudicated Cardiovascular Events in Patients With COVID-19: Association With Vaccination Status and Changes Over Time.**  
+  *Journal of the American Heart Association*, 14(24): e044011, 2025.
+
+- <span style="background:#E45756;color:white;padding:2px 6px;border-radius:4px;">Cardiology</span>  
+  Bikdeli B, Khairani CD, Krishnathasan D, Bejjani A, Armero A, Tristani A, Davies J, Porio N, Assi AA, Nauffal V.  
+  **Major Cardiovascular Events After COVID-19, Event Rates Post-Vaccination, Antiviral or Anti-Inflammatory Therapy, and Temporal Trends: Rationale and Methodology of the CORONA-VTE-Network Study.**  
+  *Thrombosis Research*, 228:94–104, 2023.
+
+- <span style="background:#E45756;color:white;padding:2px 6px;border-radius:4px;">Cardiology</span>  
+  Bikdeli B, Krishnathasan D, Khairani CD, Bejjani A, Davies J, Porio N, Tristani A, Armero A, Assi AA, Nauffal V.  
+  **Low Absolute Risk of Thrombotic and Cardiovascular Events in Outpatient Pregnant Women with COVID-19.**  
+  *Thrombosis Research*, 237:209–215, 2024.
+
+- <span style="background:#E45756;color:white;padding:2px 6px;border-radius:4px;">Cardiology</span>  
+  Scimeca G, Krishnathasan D, Rashedi S, Lan Z, Sato A, Hamade N, Bejjani A, Khairani CD, Davies J, Porio N.  
+  **Predictors of Venous Thromboembolic Events in Hospitalized Patients with COVID-19.**  
+  *Journal of Thrombosis and Thrombolysis*, 58(4):485–496, 2025.
+
+- <span style="background:#4C78A8;color:white;padding:2px 6px;border-radius:4px;">Neuroscience</span>  
+  Lan Z, Foster S, Charney M, van Grinsven M, Breedlove K, Kozlowska K, Lin A.  
+  **Neurometabolic Network (NMetNet) for Functional Neurological Disorder in Children and Adolescents.**  
+  *NeuroImage: Clinical*, 46:103767, 2025.
+
+- <span style="background:#E45756;color:white;padding:2px 6px;border-radius:4px;">Cardiology</span>  
+  Leyva H, Hamade N, Krishnathasan D, Goldhaber SZ, Welker J, Carroll B, Bonaca M, Lan Z, Bikdeli B, Piazza G.  
+  **Non-O Blood Groups and Cardiovascular Outcomes in COVID-19: Findings From a Large Multicenter Study.**  
+  *JACC: Advances*, 4(4):101641, 2025.
+
 ## Clinical Trials
 - <span style="background:#E45756;color:white;padding:2px 6px;border-radius:4px;">Cardiology</span>  
   Pfeferman M et al.  
