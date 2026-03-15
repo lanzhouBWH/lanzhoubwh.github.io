@@ -15,7 +15,6 @@ As both a lead investigator and collaborative team member in medical research, h
 
 # Investigation Areas
 
-### Biobank studies supporting R&D biomarker investigation,
 ## Biobank studies supporting R&D biomarker investigation
 
 - <span style="background:#4C78A8;color:white;padding:2px 6px;border-radius:4px;">Neuroscience</span>  
