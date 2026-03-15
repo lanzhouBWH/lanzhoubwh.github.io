@@ -23,29 +23,42 @@ Investigation Areas
 ### Biobank Analytics
 Large-scale imaging/digital-device/omics research using biobanks and population cohorts (e.g., Human Connectome Project, ABCD Study, Boston Scientific’s ALTITUDE database, and NCDR ICD Registry).
 
-- Zhou L, Chen Y, Rushmore J, Zekelman L, Makris N, Rathi Y, Golby AJ, Zhang F, O’Donnell LJ.  
+
+- <span style="background:#4C78A8;color:white;padding:2px 6px;border-radius:4px;">Neuroscience</span>  
+  Zhou L, Chen Y, Rushmore J, Zekelman L, Makris N, Rathi Y, Golby AJ, Zhang F, O’Donnell LJ.  
   **Fiber Microstructure Quantile (FMQ) Regression: A Novel Statistical Approach for Analyzing White Matter Bundles from Periphery to Core.**  
   *Imaging Neuroscience*, 3:11, 2025.  
   DOI: https://doi.org/10.1162/imaga00569
 
-- Legarreta JH, Lan Z, Chen Y, Zhang F, Yeterian E, Makris N, Rushmore J, Rathi Y, O’Donnell LJ.  
+- <span style="background:#4C78A8;color:white;padding:2px 6px;border-radius:4px;">Neuroscience</span>  
+  Zekelman LR et al.  
+  **Consistent cerebellar pathway–cognition associations across preadolescents and young adults: a diffusion MRI study of 9000+ participants.**  
+  *bioRxiv*, 2025.
+
+- <span style="background:#4C78A8;color:white;padding:2px 6px;border-radius:4px;">Neuroscience</span>  
+  Legarreta JH et al.  
   **Towards an Informed Choice of Diffusion MRI Image Contrasts for Cerebellar Segmentation.**  
   *Human Brain Mapping*, 46(11), 2025.  
   DOI: https://doi.org/10.1002/hbm.70317
 
-- Lan Z, Foster S, Charney M, van Grinsven M, Breedlove K, Kozlowska K, Lin A.  
+- <span style="background:#4C78A8;color:white;padding:2px 6px;border-radius:4px;">Neuroscience</span>  
+  Lan Z, Foster S, Charney M et al.  
   **Neurometabolic Network (NMetNet) for Functional Neurological Disorder in Children and Adolescents.**  
-  *NeuroImage: Clinical*, 46, 2025.  
-  DOI: https://doi.org/10.1016/j.nicl.2025.103767
+  *NeuroImage: Clinical*, 46, 2025.
 
+- <span style="background:#4C78A8;color:white;padding:2px 6px;border-radius:4px;">Neuroscience</span>  
+  Beroukhim B et al.  
+  **A novel automated pipeline to assess MR spectroscopy quality control.**  
+  *Journal of Neuroimaging*, 35(1), 2025.
 
-- Hummel JP, Lan Z, Jones PW, Khera R, Stein K, Curtis JP, Akar J.  
+- <span style="background:#E45756;color:white;padding:2px 6px;border-radius:4px;">Cardiology</span>  
+  Hummel JP, Lan Z et al.  
   **Predictors of Right Ventricular Pacing in Patients Undergoing Implantable Defibrillator Placement.**  
   *Journal of Cardiovascular Electrophysiology*, 36(4), 2025.
 
 
 
-- **Real World Evidence Analytics**
+### Real World Evidence Analytics
 Epidemiological Real-world Studies and Outcomes Research: Analysis of EHRs, insurance claims, registry data for treatment effectiveness, safety evaluation, and patient trajectory modeling using advanced causal inference and survival methods.
 
 
