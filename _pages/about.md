@@ -132,13 +132,17 @@ As both a lead investigator and collaborative team member in medical research, h
 
 
 ## Statistical Methodology
-
+- <span style="background:#4C78A8;color:white;padding:2px 6px;border-radius:4px;">Neuroscience</span>  
+  Yan L, Zhang X, Lan Z, Bandyopadhyay D, Wu Y, Alzheimer’s Disease Neuroimaging Initiative.  
+  **Variable Screening and Spatial Smoothing in Fréchet Regression with Application to Diffusion Tensor Imaging.**  
+  *The Annals of Applied Statistics*, 19(1):655–679, 2025.
+  
 - <span style="background:#B279A2;color:white;padding:2px 6px;border-radius:4px;">Statistical Methods</span>  
   Roy A, Lan Z.  
   **Double Soft-Thresholded Model for Multi-Group Scalar on Vector-Valued Image Regression.**  
   *Bayesian Analysis*, 2026.
 
-- <span style="background:#4C78A8;color:white;padding:2px 6px;border-radius:4px;">Neuroscience</span>  
+- <span style="background:#B279A2;color:white;padding:2px 6px;border-radius:4px;">Statistical Methods</span>  
   Lan Z, Roy A, Alzheimer’s Disease Neuroimaging Initiative.  
   **Spatial von-Mises Fisher Regression for Directional Data.**  
   *Technometrics*, 67(4):706–715, 2025.
@@ -148,12 +152,12 @@ As both a lead investigator and collaborative team member in medical research, h
   **Correlated Wishart Matrices Classification via an Expectation-Maximization Composite Likelihood-Based Algorithm.**  
   *Statistics and Its Interface*, 17(2):173–185, 2024.
 
-- <span style="background:#4C78A8;color:white;padding:2px 6px;border-radius:4px;">Neuroscience</span>  
+- <span style="background:#B279A2;color:white;padding:2px 6px;border-radius:4px;">Statistical Methods</span>  
   Lan Z, Reich BJ, Bandyopadhyay D.  
   **A Spatial Bayesian Semiparametric Mixture Model for Positive Definite Matrices with Applications in Diffusion Tensor Imaging.**  
   *Canadian Journal of Statistics*, 49(1):129–149, 2021.
 
-- <span style="background:#4C78A8;color:white;padding:2px 6px;border-radius:4px;">Neuroscience</span>  
+- <span style="background:#B279A2;color:white;padding:2px 6px;border-radius:4px;">Statistical Methods</span>  
   Lan Z, Reich BJ, Guinness J, Bandyopadhyay D, Ma L, Moeller FG.  
   **Geostatistical Modeling of Positive Definite Matrices: An Application to Diffusion Tensor Imaging.**  
   *Biometrics*, 2021.
