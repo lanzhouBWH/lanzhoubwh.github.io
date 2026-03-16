@@ -13,7 +13,7 @@ Zhou (Joe) Lan is an associate director at Real-World Evidence Analytics on Sano
 
 As both a lead investigator and collaborative team member in medical research, he has contributed to numerous studies with publications in prestigious journals including JAMIA Open, NEJM, JAHA, JAMA Network Open, Circulation, Neuro-Oncology, and Imaging Neuroscience. As trained biostatistician and data scientist, he has served as lead author on more than 15 publications in prominent journals such as Technometrics, Biometrics, Journal of the Royal Statistical Society: Series A, Data Science in Science.
 
-# Investigation Areas
+[Download CV (PDF)](/files/CV.pdf)
 
 ## Biobank studies supporting R&D biomarker investigation
 
