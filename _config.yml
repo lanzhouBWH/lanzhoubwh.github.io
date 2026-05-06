@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Zhou (Joe) Lan"
 title_separator          : "-"
 name                     : &name "Zhou Lan"
-description              : &description "Now the Associate Director of Real-World Evidence Analytics at Sanofi; Past Biostatistics Faculty at Brigham and Women's Hospital, Harvard Medical School."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Now the Associate Director of Real-World Evidence Analytics at Sanofi; former Biostatistics Faculty at Brigham and Women's Hospital, Harvard Medical School."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://lanzhoubwh.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "xxx.png"
   name             : "Zhou Lan"
   pronouns         : # example: "she/her"  
-  bio              : "Now the Associate Director of Real-World Evidence Analytics at Sanofi; Past Biostatistics Faculty at Brigham and Women's Hospital, Harvard Medical School."
+  bio              : "Now the Associate Director of Real-World Evidence Analytics at Sanofi; former Biostatistics Faculty at Brigham and Women's Hospital, Harvard Medical School."
   location         : "Boston MA, USA"
   employer         : "Sanofi"
   uri              : # URL
